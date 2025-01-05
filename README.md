@@ -4,11 +4,14 @@
 🌱 About Me
 ## Passion for sustainabilty accounting research and Data science enthusiast.  
 
-## 🛠️ Skills  
+## 🛠️ Skills & Tools 
 - Accounting Pedagogy  
 - Data Science Foundations (Python, R, SQL, SPSS)    
 - Data Analysis & Visualization (Pandas, Matplotlib, Tableau)  
-- Sustainability Reporting  
+- Sustainability Reporting
+
+💡 Current Projects
+
   
 🎯 Let's Collaborate
 I'm always eager to team up on:
