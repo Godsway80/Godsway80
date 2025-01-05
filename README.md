@@ -1,13 +1,10 @@
 
 # 🌟 Hello! I'm Godsway Natam 🌟  
 
-
-## An accounting graduate with a passion for teaching 
-Passion for sustainabilty accounting research
-Passion for data science to leverage data-driven insights for impactful solutions.  
-#   
-# 
-
+🌱 About Me
+## Passion for sustainabilty accounting research
+   Data science enthusiast.  
+   Accounting Teaccher
 
 ## 🛠️ Skills  
 - Accounting Pedagogy  
@@ -15,7 +12,6 @@ Passion for data science to leverage data-driven insights for impactful solution
 - Data Analysis & Visualization (Pandas, Matplotlib, Tableau)  
 - Sustainability Reporting  
   
-
 🎯 Let's Collaborate
 I'm always eager to team up on:
 DATA projects addressing real-world problems 🌍
