@@ -1,15 +1,27 @@
-## Hello! I'm an accounting graduate with research focused on sustainability and accounting. Currently, I'm enhancing my skills in data science to drive impactful, data-driven solutions#   
+
+# 🌟 [Godsway Natam] 🌟  
+
+
+## Hello! I'm an accounting graduate with a passion for teaching, 
+research, and 
+data science.  
+#   
 # 
-
-
-
-
 
 
 ## 🛠️ Skills  
 - Accounting Pedagogy  
-- Data Science Foundations (Python, R, SQL)  
-- Research Methodology (Quantitative Focus)  
+- Data Science Foundations (Python, R, SQL, SPSS)    
 - Data Analysis & Visualization (Pandas, Matplotlib, Tableau)  
 - Sustainability Reporting  
-- Effective Communication & Presentation 
+  
+
+🎯 Let's Collaborate
+I'm always eager to team up on:
+DATA projects addressing real-world problems 🌍
+Open-source innovations 🤝
+Creative initiatives 
+📫 Reach out to me: LinkedIn|Email
+
+
+"Code with purpose, create with passion." 🌟
