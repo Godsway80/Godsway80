@@ -1,10 +1,10 @@
 
-# 🌟 [Godsway Natam] 🌟  
+# 🌟 Hello! I'm Godsway Natam 🌟  
 
 
-## Hello! I'm an accounting graduate with a passion for teaching, 
-research, and 
-data science.  
+## An accounting graduate with a passion for teaching 
+Passion for sustainabilty accounting research
+Passion for data science to leverage data-driven insights for impactful solutions.  
 #   
 # 
 
