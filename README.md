@@ -2,9 +2,7 @@
 # 🌟 Hello! I'm Godsway Natam 🌟  
 
 🌱 About Me
-## Passion for sustainabilty accounting research
-   Data science enthusiast.  
-   Accounting Teaccher
+## Passion for sustainabilty accounting research and Data science enthusiast.  
 
 ## 🛠️ Skills  
 - Accounting Pedagogy  
